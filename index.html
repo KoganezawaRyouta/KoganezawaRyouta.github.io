@@ -84,6 +84,42 @@
           <div class="posts-list">
             
             
+            <article class="post-preview">
+              <a href="http://koganezawaryouta.github.io/post/atom_for_golang/">
+          	  <h2 class="post-title">atom_for_golang</h2>
+
+          	  
+              </a>
+
+              <p class="post-meta">
+                Posted on April 25, 2016
+              </p>
+
+              <div class="post-entry">
+                Tips Atom editer for golang linter install atom packages apm install go-plus このpackagesがかなりすごい。めっちゃオススメです。 go-plusを入れると自動的に下記パッケージも入る。linter, gofmt等はsaveしたタイミングで走る。 ╰─$ apm list | grep go ├── go-to-line@0.30.0 ├── language-go@0.42.0 ├── autocomplete-go@1.0.6 ├── builder-go@1.0.0 ├── go-config@1.1.4 ├── go-get@1.0.3 ├── go-plus@4.1.0 ├── gofmt@1.1.6 ├── gometalinter-linter@1.1.0 ├── gorename@1.0.2 ├── navigator-godef@1.0.3 ├── tester-go@1.0.4 golangの開発支援ツール群（基本go-plusから呼び出される） go-plusで使ってるライブラリーを入れ忘れてもgo-configのパッケージが検知してgo-getパッケージを使って自動で入れてくれる。 $ go get -v github.com/alecthomas/gometalinter $ go get -v golang.org/x/tools/cmd/gorename $ go get -v github.com/nsf/gocode $ go get -v github.com/rogpeppe/godef $ go get
+          	  <a href="http://koganezawaryouta.github.io/post/atom_for_golang/" class="post-read-more">[Read&nbsp;More]</a>
+              </div>
+
+             </article>
+            
+            <article class="post-preview">
+              <a href="http://koganezawaryouta.github.io/post/atom_for_rails/">
+          	  <h2 class="post-title">atom_for_rails</h2>
+
+          	  
+              </a>
+
+              <p class="post-meta">
+                Posted on April 25, 2016
+              </p>
+
+              <div class="post-entry">
+                Tips Atom editer for rails linter install $ rbenv exec gem install rubocop $ rbenv exec gem install haml-lint $ apm install linter-rubocop $ apm install linter-haml $ apm install linter-ruby Settings 'linter-rubocop': 'executablePath': rubocopのパス（rbenv which rubocop） 'linter-haml': 'copyRubocopYml': true 'hamlLintExecutablePath': haml-lintのパス（rbenv which haml-lint） yamlのloadでinvalid byte sequenceになる場合 下記を追加 process.env.LANG = 'ja_JP.UTF-8' rubocop-auto-correct(rubocop -aの自動化) install $ apm install rubocop-auto-correct Haml Syntax highlighting install $ apm install language-haml
+          	  <a href="http://koganezawaryouta.github.io/post/atom_for_rails/" class="post-read-more">[Read&nbsp;More]</a>
+              </div>
+
+             </article>
+            
           </div>
 
           

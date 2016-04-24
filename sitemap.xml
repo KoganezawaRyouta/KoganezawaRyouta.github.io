@@ -13,7 +13,17 @@
   </url>
   
   <url>
+    <loc>http://koganezawaryouta.github.io/post/atom_for_golang/</loc>
+    <lastmod>2016-04-25T00:54:22+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://koganezawaryouta.github.io/atom_for_rails/</loc>
+    <lastmod>2016-04-25T00:32:22+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://koganezawaryouta.github.io/post/atom_for_rails/</loc>
     <lastmod>2016-04-25T00:32:22+09:00</lastmod>
   </url>
   
