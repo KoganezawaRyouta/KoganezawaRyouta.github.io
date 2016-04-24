@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kogane.com</title>
-    <link>https://github.com/KoganezawaRyouta/</link>
+    <link>http://koganezawaryouta.github.io/</link>
     <description>Recent content on Kogane.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>jp</language>
     <lastBuildDate>Mon, 25 Apr 2016 00:54:22 +0900</lastBuildDate>
-    <atom:link href="https://github.com/KoganezawaRyouta/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://koganezawaryouta.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>atom_for_golang</title>
-      <link>https://github.com/KoganezawaRyouta/atom_for_golang/</link>
+      <link>http://koganezawaryouta.github.io/atom_for_golang/</link>
       <pubDate>Mon, 25 Apr 2016 00:54:22 +0900</pubDate>
       
-      <guid>https://github.com/KoganezawaRyouta/atom_for_golang/</guid>
+      <guid>http://koganezawaryouta.github.io/atom_for_golang/</guid>
       <description>
 
 &lt;h1 id=&#34;tips-atom-editer-for-golang:b045b6c07713fe08c73c8fadc852e1b3&#34;&gt;Tips Atom editer for golang&lt;/h1&gt;
@@ -72,10 +72,10 @@ $ go get -v golang.org/x/tools/cmd/oracle
     
     <item>
       <title>atom_for_rails</title>
-      <link>https://github.com/KoganezawaRyouta/atom_for_rails/</link>
+      <link>http://koganezawaryouta.github.io/atom_for_rails/</link>
       <pubDate>Mon, 25 Apr 2016 00:32:22 +0900</pubDate>
       
-      <guid>https://github.com/KoganezawaRyouta/atom_for_rails/</guid>
+      <guid>http://koganezawaryouta.github.io/atom_for_rails/</guid>
       <description>
 
 &lt;h1 id=&#34;tips-atom-editer-for-rails:60a553ffa2744246318d8bc69f285513&#34;&gt;Tips Atom editer for rails&lt;/h1&gt;

@@ -2,18 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://github.com/KoganezawaRyouta/</loc>
+    <loc>http://koganezawaryouta.github.io/</loc>
     <lastmod>2016-04-25T00:54:22+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://github.com/KoganezawaRyouta/atom_for_golang/</loc>
+    <loc>http://koganezawaryouta.github.io/atom_for_golang/</loc>
     <lastmod>2016-04-25T00:54:22+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://github.com/KoganezawaRyouta/atom_for_rails/</loc>
+    <loc>http://koganezawaryouta.github.io/atom_for_rails/</loc>
     <lastmod>2016-04-25T00:32:22+09:00</lastmod>
   </url>
   
