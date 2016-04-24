@@ -6,6 +6,8 @@
     <description>Recent content on kogane.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>jp</language>
+    <managingEditor>ryouta.koganezawa@gmail.com</managingEditor>
+    <webMaster>ryouta.koganezawa@gmail.com</webMaster>
     <lastBuildDate>Mon, 25 Apr 2016 00:54:22 +0900</lastBuildDate>
     <atom:link href="http://koganezawaryouta.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -13,7 +15,7 @@
       <title>atom_for_golang</title>
       <link>http://koganezawaryouta.github.io/atom_for_golang/</link>
       <pubDate>Mon, 25 Apr 2016 00:54:22 +0900</pubDate>
-      
+      <author>ryouta.koganezawa@gmail.com</author>
       <guid>http://koganezawaryouta.github.io/atom_for_golang/</guid>
       <description>
 
@@ -83,7 +85,7 @@ atom .
       <title>atom_for_golang</title>
       <link>http://koganezawaryouta.github.io/post/atom_for_golang/</link>
       <pubDate>Mon, 25 Apr 2016 00:54:22 +0900</pubDate>
-      
+      <author>ryouta.koganezawa@gmail.com</author>
       <guid>http://koganezawaryouta.github.io/post/atom_for_golang/</guid>
       <description>
 
@@ -144,7 +146,7 @@ $ go get -v golang.org/x/tools/cmd/oracle
       <title>atom_for_rails</title>
       <link>http://koganezawaryouta.github.io/atom_for_rails/</link>
       <pubDate>Mon, 25 Apr 2016 00:32:22 +0900</pubDate>
-      
+      <author>ryouta.koganezawa@gmail.com</author>
       <guid>http://koganezawaryouta.github.io/atom_for_rails/</guid>
       <description>
 
@@ -197,7 +199,7 @@ $ apm install linter-ruby
       <title>atom_for_rails</title>
       <link>http://koganezawaryouta.github.io/post/atom_for_rails/</link>
       <pubDate>Mon, 25 Apr 2016 00:32:22 +0900</pubDate>
-      
+      <author>ryouta.koganezawa@gmail.com</author>
       <guid>http://koganezawaryouta.github.io/post/atom_for_rails/</guid>
       <description>
 
