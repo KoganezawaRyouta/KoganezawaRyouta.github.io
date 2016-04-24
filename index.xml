@@ -67,6 +67,15 @@ $ go get -v golang.org/x/tools/cmd/oracle
   ]
 }
 &lt;/code&gt;&lt;/pre&gt;
+
+&lt;h3 id=&#34;gopath:b045b6c07713fe08c73c8fadc852e1b3&#34;&gt;gopath&lt;/h3&gt;
+
+&lt;p&gt;プロジェクト単位でgopathを切り替える方法して、&amp;rsquo;.envrc&amp;rsquo;を使っている場合は、プロジェクトのカレントディレクトから
+atomを起動しないとgo-plusで読み込んでいる各パッケージがちゃんとgopathを参照できなくて正常に動かないので注意！&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;cd /goプロジェクト
+atom .
+&lt;/code&gt;&lt;/pre&gt;
 </description>
     </item>
     
